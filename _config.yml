@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
 url: /
-author: 卢克
+author: 王学文
 pygments: true
 paginate: 24
