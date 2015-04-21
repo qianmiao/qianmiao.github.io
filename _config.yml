@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: /
+url: geeklu.com
 author: 王学文
 pygments: true
 paginate: 24
