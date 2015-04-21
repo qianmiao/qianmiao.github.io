@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: geeklu.com
+#url: http://qianmiao.github.io/
 author: 王学文
 pygments: true
 paginate: 24
