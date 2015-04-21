@@ -1,7 +1,7 @@
 ---
 title: About me
 layout: page
-comments: yes
+comments: no
 ---
   
 王学文, 06年毕业于湘潭大学.      
