@@ -21,6 +21,4 @@ xcrun atos -o Alimei-iPhone.app.dSYM/Contents/Resources/DWARF/Alimei-iPhone -arc
 
 ```
 
-0x4000是基地址 0x009894d9 0x00988ba5 ...是对象地址
-
-这些地址在crash log查看
+0x4000是基地址 0x009894d9 0x00988ba5 ...是对象地址  这些地址在crash log查看
