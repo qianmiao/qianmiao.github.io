@@ -8,12 +8,12 @@ tags:
 - iOS
 ---
 
-### 复制文件
+### 一.复制文件
 
 将deriveData对应app的build目录下得xxx.app和xxx.dSYM文件拷贝到同一文件夹
 
 
-### 执行命令
+### 二.执行命令
 
 ```
 xcrun atos -o Alimei-iPhone.app.dSYM/Contents/Resources/DWARF/Alimei-iPhone -arch armv7 -l 
@@ -25,7 +25,7 @@ xcrun atos -o Alimei-iPhone.app.dSYM/Contents/Resources/DWARF/Alimei-iPhone -arc
 
 这些地址在crash log查看
 
-### crash log
+### 三.crash log
 
 ```
 Thread 22 Crashed:
